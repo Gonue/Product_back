@@ -7,6 +7,8 @@ import ProductCreate from '../views/ProductCreate.vue'
 import ProductMain from '../views/ProductMain.vue'
 import PLogin from '../views/PLogin.vue'
 import PRegister from '../views/PRegister.vue'
+import ProductLast from '../views/ProductLast.vue'
+
 
 
 const routes = [{
@@ -39,6 +41,11 @@ const routes = [{
     name: 'PRegister',
     component: PRegister
   },
+  {
+    path: '/last',
+    name: 'ProductLast',
+    component: ProductLast
+  }
 ]
 
 const router = createRouter({

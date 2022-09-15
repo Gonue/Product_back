@@ -12,9 +12,6 @@
                 <li>
                     <a href="/register">회원가입</a>
                     </li>
-                    <li>
-                    <a href="/admin">admin</a>
-                    </li>
             </ul>
         </div>
     </div>
@@ -44,7 +41,7 @@
                 <div class="gnb_menu">
                     <ul>
                         <li class="dp1">
-                            <p class="dp1_tit"><a href="#none">BRAND</a></p>
+                            <p class="dp1_tit"><a href="#none">김석현</a></p>
                             <div class="dp2">
                                 <ul>
                                     <li>Brand1</li>
